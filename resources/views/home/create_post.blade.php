@@ -66,7 +66,7 @@
             </div>
 
             <div class="field_deg">
-                <button class="btn btn-primary"> add post</button>
+                <button class="btn btn-primary">Send Request</button>
             </div>
         </form>
     </div>

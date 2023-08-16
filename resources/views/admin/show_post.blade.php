@@ -66,14 +66,12 @@
 
             <table class="table_deg">
                 <tr class="th_deg">
-                    <th>Post Title</th>
+                    <th>Request Title</th>
                     <th>Description</th>
-                    <th>Post by</th>
-                    <th>Post Status</th>
+                    <th>Request by</th>
+                    <th>Request Status</th>
                     <th>User Type</th>
-                    <th>Delete</th>
-                    <th>accept</th>
-                    <th>reject</th>
+
                 </tr>
 
                 @foreach ($post as $post)

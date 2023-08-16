@@ -31,7 +31,7 @@
     <div class="col-md-12" style="text-align: center; padding:100px;">
         <h2 style="padding: 20px;"><b>{{ $post->title }}</b></h2>
         <h4 style="padding: 40px;">{{ $post->description }}</h4>
-        <p style="padding: 40px;">post by <b>{{ $post->name }}</b></p>
+        <p style="padding: 40px;">Request by <b>{{ $post->name }}</b></p>
 
     </div>
 

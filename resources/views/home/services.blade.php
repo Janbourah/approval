@@ -1,6 +1,6 @@
 <div class="services_section layout_padding">
     <div class="container">
-        <h1 class="services_taital">Users Suggestions </h1>
+        <h1 class="services_taital">Users Requests </h1>
 
         <div class="services_section_2">
             <div class="row">

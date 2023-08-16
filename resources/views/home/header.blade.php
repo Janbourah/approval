@@ -18,7 +18,7 @@
 
                                  </x-app-layout>
                              </li>
-                             <li class="nav-item"><a href="{{ url('create_post') }}" class="nav-link">add suggestion</a>
+                             <li class="nav-item"><a href="{{ url('create_post') }}" class="nav-link">Add a Request</a>
                              </li>
                          @else
                              <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Login</a></li>

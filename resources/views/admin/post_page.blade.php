@@ -58,11 +58,11 @@
                 <form action="{{ url('add_post') }}" method="POST">
                     @csrf
                     <div class="div_center">
-                        <label for="">post title</label>
+                        <label for="">Post title</label>
                         <input type="text" name="title">
                     </div>
                     <div class="div_center">
-                        <label for="">post description</label>
+                        <label for="">Post description</label>
                         <textarea name="description"></textarea>
                     </div>
                     <div class="div_center">
